@@ -11,6 +11,7 @@ namespace _01 {
             Console.BackgroundColor = ConsoleColor.White;
             Console.Clear();
             Console.WriteLine("Hello World!");
+            Console.WriteLine("New string!");
         }
     }
 }
